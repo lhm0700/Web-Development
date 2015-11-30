@@ -1,0 +1,17 @@
+//HTML code for a footer
+<div id="footer">
+  <footer>
+    &copy; 2015 Luke Munoz
+  </footer>
+</div>
+
+//CSS code that belongs to the footer HTML code above
+footer {
+  position:fixed;
+  bottom:0;
+  left:19cm;
+  color: #111;
+}
+
+The above code will give you a footer with color that is deisgned to be fixed, centered, and at the bottom
+of the web page.
